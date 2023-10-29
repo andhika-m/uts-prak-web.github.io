@@ -1,0 +1,43 @@
+.container {
+    margin-top: 70px;
+}
+
+table {
+    text-align: center;
+}
+
+.cell-content {
+    position: relative;
+}
+
+.number-label {
+    position: absolute;
+    top: 0px;
+    left: 2px;
+    font-size: 12px;
+    color: #000;
+    background-color: transparent;
+}
+
+td {
+    width: 40px;
+    height: 40px;
+}
+
+td input {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #000;
+}
+
+.block {
+    background-color: #4c7997;
+}
+
+.col {
+    padding: 30px;
+}
